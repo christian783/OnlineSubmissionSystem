@@ -20,10 +20,9 @@ AssignmentSubmissionSystem/
 │   ├── css/              # Bootstrap and custom styles
 │   ├── js/               # JavaScript scripts
 │
-├── lib/                  # Dependencies (JAR files for Hibernate, BCrypt, etc.)
 ├── pom.xml               # Maven dependency management
 ├── README.md             # Project documentation
-└── sql/                  # Database Schema and Sample Data
+└── schema/                  # Database Schemas
 ```
 
 ---
